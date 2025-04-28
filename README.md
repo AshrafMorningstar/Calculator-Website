@@ -82,8 +82,8 @@ This project is licensed under the [MIT License](LICENSE.md) - feel free to use 
 
 Have questions or feedback? Feel free to reach out:
 
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile-link]
+- **Email**: [Ashrafmorningstar@gmail.com]
+- **GitHub**: [https://github.com/AshrafMorningstar]
 
 Let’s create digital experiences that inspire! 🚀
 
