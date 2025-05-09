@@ -6,7 +6,7 @@
 }
 
 html, body {
-    background: radial-gradient(circle, #0f0c29, #302b63, #24243e); /* Space-themed gradient */
+    background: radial-gradient(circle, #d904ff, #ff04c0, #ff0990); /* Space-themed gradient */
     font-family: 'Orbitron', sans-serif; /* Sci-fi font */
     color: #ffffff;
     display: flex;
